@@ -1,0 +1,197 @@
+[
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260715-WA0017.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-1"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260820-WA0047.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/WhatsApp Image 2026-09-04 at 15.37.13.jpeg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260724_185804_501.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-1"
+  },
+  {
+    "type": "video",
+    "src": "/fotovideo/VID-20260826-WA0038.mp4",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260815_175210_261.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260730_143948_780.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260818-WA0025.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/3.jpeg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/2.jpeg",
+    "span": "col-span-1 md:col-span-2 row-span-1"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260730_143931_924.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260718-WA0042.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260820-WA0048.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/6.jpeg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260815-WA0046.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/0.jpeg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/5.jpeg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/14.jpeg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260826_214738_225.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/7.jpeg",
+    "span": "col-span-1 md:col-span-2 row-span-1"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260808-WA0033.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/13.jpeg",
+    "span": "col-span-1 md:col-span-2 row-span-1"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260824_195652_430.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/15.jpeg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260730_143941_333.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260724_185801_016.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260731_211528_786.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260731_211653_201.jpg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260727_184941_362.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "video",
+    "src": "/fotovideo/VID_20260715_010025_419.mp4",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "video",
+    "src": "/fotovideo/VID_20260731_164912.mp4",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/9.jpeg",
+    "span": "col-span-1 md:col-span-2 row-span-1"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260829-WA0093.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/12.jpeg",
+    "span": "col-span-1 md:col-span-2 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/11.jpeg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260804_173816_616.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260726_080717_082.webp",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG-20260829-WA0097.jpg",
+    "span": "col-span-1 row-span-2"
+  },
+  {
+    "type": "image",
+    "src": "/fotovideo/IMG_20260826_214746_379.jpg",
+    "span": "col-span-1 row-span-2"
+  }
+]
