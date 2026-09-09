@@ -3,6 +3,7 @@
 import { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import Image from "next/image";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -115,10 +116,14 @@ export default function Hero() {
         ref={photoRef} 
         className="absolute bottom-0 left-1/2 -translate-x-1/2 z-20 w-[60vw] md:w-[35vw] lg:w-[28vw] h-[60vh] md:h-[75vh] rounded-t-[500px] rounded-b-none overflow-hidden anim-fade-in shadow-[0_0_100px_rgba(0,0,0,0.8)]"
       >
-        <img 
+        <Image 
           src="/Foto-atas/IMG-20260815-WA0046.jpg" 
           alt="The Gang" 
-          className="w-full h-full object-cover"
+          fill
+          priority
+          quality={100}
+          sizes="100vw"
+          className="object-cover"
         />
         {/* Subtle Dark Overlay */}
         <div className="absolute inset-0 bg-black/10 pointer-events-none" />
